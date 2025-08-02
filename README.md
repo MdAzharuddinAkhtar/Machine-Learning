@@ -51,13 +51,6 @@ Mean Squared Error (MSE) is computed for each fold, and the average and standard
 
 These methods facilitate model parsimony without compromising predictive accuracy.
 
-### 4. Shrinkage Estimators
-
-- **Ridge Regression (L2 penalty)** shrinks all coefficient estimates toward zero, reducing variance at the cost of bias.
-- **Lasso Regression (L1 penalty)** performs variable selection by setting some coefficients exactly to zero.
-
-Both methods are implemented to address multicollinearity and improve model generalizability.
-
 ## Implementation Details
 
 All analysis is conducted in **Python**, using the following libraries:
