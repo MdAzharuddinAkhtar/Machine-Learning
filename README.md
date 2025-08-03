@@ -10,7 +10,6 @@ This repository presents a comprehensive application of model selection and eval
 - Evaluate models using AIC, BIC, R², Adjusted R², and Mallow’s Cp
 - Apply single-split and K-fold cross-validation to assess prediction error
 - Implement variable selection techniques such as best subsets and stepwise regression
-- Demonstrate shrinkage methods (Ridge and Lasso) as regularized alternatives
 
 ## Data
 
